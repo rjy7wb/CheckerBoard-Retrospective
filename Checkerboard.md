@@ -17,4 +17,4 @@ I met all requirements, and functionality, I did have to learn to effectively re
 ### How well does your solution match the posted solution? What is different?
 when selecting board dimensions, I repeated code, instead of using a simple if/else or switch statement.
 ### How could you improve going foward? What don't you still understand that was required for the challenge?
-I beleieve overall I understand MVC and why its important, I do believe I need more exposure to it to master it.
+I believe overall I understand MVC and why its important, I do believe I need more exposure to it to master it.

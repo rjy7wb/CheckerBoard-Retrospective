@@ -5,12 +5,12 @@
 Overall I believe I accomplished the goals for this assignment, my checkerboard is completely functional.
 It also follows the MVC design goals.
 
-My CheckerBoard:
-
--Allows the user to change the dimensions (fixed)
--Allows the user to change the color (fixed)
--scales when the user drags the window
--follows the MVC guidelines
+My CheckerBoard:  
+  
+-Allows the user to change the dimensions (fixed)  
+-Allows the user to change the color (fixed)  
+-scales when the user drags the window  
+-follows the MVC guidelines  
 
 ### How well did you meet the requirements as set out in the challenge? What requirements did you not meet correctly?
 I met all requirements, and functionality, I did have to learn to effectively read and understand documentation to implement this as I have never used ActionEvents.
